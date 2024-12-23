@@ -11,6 +11,17 @@ This repository provides a flexible machine learning pipeline for regression tas
 
 ## Setup
 
+Follow the steps below to set up and run the project on your local machine.
+
 ### Prerequisites
-- Python 3.x
-- pip (Python package installer)
+Ensure you have the following installed:
+- **Python 3.x**: Download and install from [python.org](https://www.python.org/).
+- **pip**: Comes with Python; used to install dependencies.
+- **Git** (optional): To clone the repository.
+
+### Installation Steps
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/ML-Pipeline.git
+   cd ML-Pipeline
+
