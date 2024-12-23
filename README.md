@@ -22,6 +22,6 @@ Ensure you have the following installed:
 ### Installation Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ML-Pipeline.git
+   git clone https://github.com/gauravlute01/ML-Pipeline.git
    cd ML-Pipeline
 
